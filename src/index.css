@@ -1,0 +1,41 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Open Sans", sans-serif
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.w3-theme-d2 {color:#fff !important; background-color:#4d636f !important}
+
+
+.w3-theme-light {color:#000 !important; background-color:#f5f7f8 !important}
+.w3-theme-dark {color:#fff !important; background-color:#303e45 !important}
+.w3-theme-action {color:#fff !important; background-color:#303e45 !important}
+
+.w3-theme {color:#fff !important; background-color:#607d8b !important}
+.w3-text-theme {color:#607d8b !important}
+.w3-border-theme {border-color:#607d8b !important}
+
+.w3-hover-theme:hover {color:#fff !important; background-color:#607d8b !important}
+.w3-hover-text-theme:hover {color:#607d8b !important}
+.w3-hover-border-theme:hover {border-color:#607d8b !important}
+
+
+.contmargin-top{ margin-top: 80px !important}
+.post{height:100%}
+.post--align{text-align: left}
+.post--edit {padding: 10px 12px!important;text-align: left; height: 95px; }
+.post--button{float: right;}
+.img__size{height: 50px; width: 50px;}
+.padding__10{padding: 10px}
+
+.posted__p{ font-size: 12px; text-align: left;}
+.box__marbottom{margin-bottom: 15px;}
