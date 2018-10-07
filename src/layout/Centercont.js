@@ -29,7 +29,7 @@ class Centercont extends Component {
                 <div className="w3-card-2 w3-round w3-white">
                   <div className="w3-container w3-padding post">
                     <h6 className=" post--align">Make Post</h6>
-                    <p contenteditable="true" className="w3-border w3-padding post--edit w3-opacity">Status: Feeling Blue</p>
+                    <p contenteditable="true" className="w3-border w3-padding post--edit w3-opacity">Let's post your thought </p>
 
                     <button type="button" className="w3-button w3-theme post--button"><i className="fa fa-pencil"></i>  Post</button>
                   </div>
